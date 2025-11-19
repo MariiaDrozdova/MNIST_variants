@@ -1,0 +1,35 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "image_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "width": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "angle": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "spacing": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "split": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "image": {
+      "_type": "Image"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
