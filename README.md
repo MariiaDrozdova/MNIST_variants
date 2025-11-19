@@ -11,7 +11,7 @@ These datasets were created and used in the accompanying paper:
 
 > **Semi-Supervised Fine-Tuning of Vision Foundation Models with Content-Style Decomposition**  
 > Authors: Mariia Drozdova, Vitaliy Kinakh, Yury Belousov, Erica Lastufka, Slava Voloshynovskiy 
-> Preprint / DOI: https://arxiv.org/abs/2410.02069
+> arXiv: https://arxiv.org/abs/2410.02069
 
 The data is stored in the standard **Hugging Face `datasets`** format (`DatasetDict` with image columns), enabling straightforward loading in Python:
 
