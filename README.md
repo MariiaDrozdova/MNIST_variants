@@ -26,8 +26,6 @@ An example notebook, **`example-usage.ipynb`**, demonstrates simple loading and 
 
 ## Example
 
-Below is a sample image from one of the datasets:
-
 ![example](example.png)
 
 ---
